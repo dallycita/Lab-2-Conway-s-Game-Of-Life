@@ -1,3 +1,5 @@
+<img width="792" height="828" alt="20260910-0545-22 5960131" src="https://github.com/user-attachments/assets/2b94905d-d76e-4e23-8ffd-9e217d0f9056" />
+
 # Conway's Game of Life
 
 Implementación de Conway's Game of Life en Rust utilizando Raylib y un framebuffer propio.
